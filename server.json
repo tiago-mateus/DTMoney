@@ -31,6 +31,22 @@
       "type": "outcome",
       "createdAt": "2024-08-09T00:13:58.608Z",
       "id": 4
+    },
+    {
+      "description": "Teste",
+      "price": 34,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-08-09T13:46:25.807Z",
+      "id": 5
+    },
+    {
+      "description": "BasqueteBol",
+      "price": 45,
+      "category": "Venda",
+      "type": "outcome",
+      "createdAt": "2024-08-09T13:46:38.463Z",
+      "id": 6
     }
   ]
 }
